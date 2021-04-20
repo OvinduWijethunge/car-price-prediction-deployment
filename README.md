@@ -4,7 +4,12 @@
 <img src="https://img.shields.io/badge/Python-3.7-brightgreen"/>
 <img src="https://img.shields.io/badge/DataSet-Kaggle-brightgreen"/> 
 <p/>
-
+<br>
+<p align=center>
+<img src="https://media.giphy.com/media/WnBbhOLj5v1LW6NK1R/giphy.gif" width="500px" height="300px">
+</p>
+<br>
+<br>
 • This project predicts current car price of the market in particular cars by considering below factors.
       
       1. Year <br>
