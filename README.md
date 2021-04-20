@@ -11,15 +11,14 @@
 <br>
 <br>
 • This project predicts current car price of the market in particular cars by considering below factors
-<br>
       
-      1. Year <br>
-      2. Show room price <br>
-      3. How much kilo meters already driven <br>
-      4. how many owners previously had <br>
-      5. Fuel type <br>
-      6. current owner type ( individual or buyer ) <br>
-      7. Transmission type <br>
+      1. Year 
+      2. Show room price 
+      3. How much kilo meters already driven 
+      4. how many owners previously had 
+      5. Fuel type
+      6. current owner type ( individual or buyer ) 
+      7. Transmission type 
  
 • This repository consists of files required to deploy a ___WEB APPLICATION___ created with ___Flask___ on ___Heroku___ platform.
 
