@@ -1,14 +1,17 @@
 ## Price prediction of cars - Deployment
-
-
-
+<p align=center>
+<img src="https://img.shields.io/badge/Python-3.7-brightgreen"/>
+<img src="https://img.shields.io/badge/DataSet-Kaggle-brightgreen"/> 
+<p/>
 • This repository consists of files required to deploy a ___WEB APPLICATION___ created with ___Flask___ on ___Heroku___ platform.
+
+• Data set got from kaggle, if you want to inspect it just click this link _https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho_
 
 • You can see deployed model in heroku , use below link for reach to deployed model:<br />
 Heroku: _https://car-price-prediction-v-1.herokuapp.com/_
 
 • If you want to check the algorithems ,models which used for implemted the model and accuracy matrix just Click the link mentioned below:<br />
-Link: _https://github.com/OvinduWijethunge/diabetes-Model_
+Link: _https://github.com/OvinduWijethunge/Machine_Learning_Projects/tree/master/car-price-prediction_
 
 
 
