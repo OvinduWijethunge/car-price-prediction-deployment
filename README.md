@@ -10,7 +10,7 @@
 • You can see deployed model in heroku , use below link for reach to deployed model:<br />
 Heroku: _https://car-price-prediction-v-1.herokuapp.com/_
 
-• If you want to check the algorithems ,models which used for implemted the model and accuracy matrix just Click the link mentioned below:<br />
+• If you want to check the algorithems ,models which used for implemented the model and see the accuracy matrix just Click the link mentioned below:<br />
 Link: _https://github.com/OvinduWijethunge/Machine_Learning_Projects/tree/master/car-price-prediction_
 
 
