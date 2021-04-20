@@ -1,9 +1,19 @@
 ## Price prediction of cars - Deployment
 <p align=left>
+<img src="https://img.shields.io/badge/Type-Regression-blue"/> 
 <img src="https://img.shields.io/badge/Python-3.7-brightgreen"/>
 <img src="https://img.shields.io/badge/DataSet-Kaggle-brightgreen"/> 
 <p/>
-* This project predicts ccurrent car price of car by considering below factors
+
+• This project predicts current car price of the market in particular cars by considering below factors.
+      
+      1. Year <br>
+      2. Show room price <br>
+      3. How much kilo meters already driven <br>
+      4. how many owners previously had <br>
+      5. Fuel type <br>
+      6. current owner type ( individual or buyer ) <br>
+      7. Transmission type <br>
   
 • This repository consists of files required to deploy a ___WEB APPLICATION___ created with ___Flask___ on ___Heroku___ platform.
 
