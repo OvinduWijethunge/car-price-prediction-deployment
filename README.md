@@ -1,4 +1,4 @@
-## Price prediction of cars - Deployment
+# Price prediction of cars - Deployment
 <p align=left>
 <img src="https://img.shields.io/badge/Type-Regression-blue"/> 
 <img src="https://img.shields.io/badge/Python-3.7-brightgreen"/>
@@ -10,7 +10,8 @@
 </p>
 <br>
 <br>
-• This project predicts current car price of the market in particular cars by considering below factors.
+• This project predicts current car price of the market in particular cars by considering below factors
+<br>
       
       1. Year <br>
       2. Show room price <br>
@@ -19,14 +20,14 @@
       5. Fuel type <br>
       6. current owner type ( individual or buyer ) <br>
       7. Transmission type <br>
-  
+ <br> 
 • This repository consists of files required to deploy a ___WEB APPLICATION___ created with ___Flask___ on ___Heroku___ platform.
-
+<br>
 • Data set got from kaggle, if you want to inspect it just click this link _https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho_
-
+<br>
 • You can see deployed model in heroku , use below link for reach to deployed model:<br />
 Heroku: _https://car-price-prediction-v-1.herokuapp.com/_
-
+<br>
 • If you want to check the algorithems ,models which used for implemented the model and see the accuracy matrix just Click the link mentioned below:<br />
 Link: _https://github.com/OvinduWijethunge/Machine_Learning_Projects/tree/master/car-price-prediction_
 
