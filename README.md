@@ -13,9 +13,10 @@ Heroku: _https://car-price-prediction-v-1.herokuapp.com/_
 • If you want to check the algorithems ,models which used for implemented the model and see the accuracy matrix just Click the link mentioned below:<br />
 Link: _https://github.com/OvinduWijethunge/Machine_Learning_Projects/tree/master/car-price-prediction_
 
+<hr>
 
 
-###If you are willing to check project in flask API
+### If you are willing to check project in flask API
 
 
 ### Prerequisites
