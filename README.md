@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/Python-3.7-brightgreen"/>
 <img src="https://img.shields.io/badge/DataSet-Kaggle-brightgreen"/> 
 <p/>
+* This project predicts ccurrent car price of car by considering below factors
+  
 • This repository consists of files required to deploy a ___WEB APPLICATION___ created with ___Flask___ on ___Heroku___ platform.
 
 • Data set got from kaggle, if you want to inspect it just click this link _https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho_
