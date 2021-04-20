@@ -32,5 +32,5 @@ This project has four major parts :
 ### Running the project in flask API
 type python app.py for start your server 
 then copy the given url and paste it in your browser
-then input valid inputs and predict your salary
+then input valid inputs and predict car price.
 
