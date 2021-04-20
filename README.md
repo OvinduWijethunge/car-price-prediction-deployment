@@ -1,5 +1,5 @@
 ## Price prediction of cars - Deployment
-<p align=center>
+<p align=left>
 <img src="https://img.shields.io/badge/Python-3.7-brightgreen"/>
 <img src="https://img.shields.io/badge/DataSet-Kaggle-brightgreen"/> 
 <p/>
