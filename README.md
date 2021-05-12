@@ -1,7 +1,7 @@
 # Price prediction of cars - Deployment
 <p align=left>
 <img src="https://img.shields.io/badge/Type-Regression-blue"/> 
-<img src="https://img.shields.io/badge/Python-3.7-brightgreen"/>
+<img src="https://img.shields.io/badge/Python-3.8-brightgreen"/>
 <img src="https://img.shields.io/badge/DataSet-Kaggle-brightgreen"/> 
 <p/>
 <br>
