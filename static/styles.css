@@ -7,7 +7,7 @@ html{
 .container{
     padding: 30px;
 	position: relative;
-	background: linear-gradient(0.25turn, #9c997c, #7c9c80, #7c809c);
+	background: linear-gradient(0.25turn, #c4ffa8,#a8ffe2, #f5ffa8);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
@@ -171,8 +171,8 @@ body{
 .footer{
 	flex-shrink: 0;
 	position: relative;
-	padding: 20px;
-	background: linear-gradient(0.25turn, #9c997c, #7c9c80, #7c809c);
+	
+	
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
